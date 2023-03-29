@@ -20,7 +20,7 @@ from evaluate import list2str, plot_curve
 #check gpu availability
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
-#negative anf positive images folder path
+#negative anf positive images folder path.
 all_image_path = "drive/MyDrive/lemon_quality_dataset/all_dataset/" #--should be edited--
 num_fold = 5 #--should be edited--
 good_quality_fold, bad_quality_fold = prepare_dataset(all_image_path, num_fold).train_test_set()
