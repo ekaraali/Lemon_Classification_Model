@@ -44,10 +44,16 @@ Parameters can be updated by editing related lines in [**main.py**]().
 # Results
 
 Results of the classifier are assessed by a few evaluation metrics: 
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
+- Accuracy: 98.2%
+  - Precision: 99.5%
+  - Recall: 96.62%
+  - F1 Score: 98.04%
+
+  Training Loss Curve can be seen in below:
+
+  <a href="url">
+  <img src="https://github.com/ekaraali/Lemon_Classification_Model/blob/main/images/train_loss_curve.png?raw=true">
+  </a>
 
 
 
