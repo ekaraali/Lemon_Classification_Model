@@ -41,12 +41,12 @@ This repo has an original classifier which includes mainly Conv2D, BatchNormaliz
   
 Parameters can be updated by editing related lines in [**main.py**](https://github.com/ekaraali/Lemon_Classification_Model/blob/main/main.py).
 
-As an alternative study, a complete code script can be seen in google colab folder [**google colab**](https://github.com/ekaraali/Lemon_Classification_Model/blob/main/google_colab/lemon_quality_cv.ipynb)
+As an alternative study, a complete code script can be seen in google colab folder [**google colab**](https://github.com/ekaraali/Lemon_Classification_Model/blob/main/google_colab/lemon_quality_cv.ipynb).
 
 # Results
 
 Results of the classifier are assessed by a few evaluation metrics: 
-- Accuracy: 98.2%
+  - Accuracy: 98.2%
   - Precision: 99.5%
   - Recall: 96.62%
   - F1 Score: 98.04%
