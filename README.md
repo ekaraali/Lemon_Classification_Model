@@ -39,7 +39,7 @@ This repo has an original classifier which includes mainly Conv2D, BatchNormaliz
     - Batch size -> 64
     - Epoch number -> 25
   
-Parameters can be updated by editing related lines in [**main.py**]().
+Parameters can be updated by editing related lines in [**main.py**](https://github.com/ekaraali/Lemon_Classification_Model/blob/main/main.py).
 
 # Results
 
